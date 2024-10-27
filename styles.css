@@ -170,3 +170,27 @@ hr{
 .my-section{
   padding-right: 100px;
 }
+/* footer */
+
+.footer{
+  background-color: #FFF8F3;
+  /* margin: 150px ; */
+  /* text-align: center; */
+  padding: 150px;  
+  display: flex;
+  justify-content: space-around;
+}
+.icones{
+  padding: 20px 0px 5px 5px;
+  
+}
+.image-class{
+  padding-right: 20px;
+}
+input{
+  border: none;
+  height: 40px;
+  width: 500px;
+  margin:  10px 10px 20px 0px;
+  border-radius: 5px;
+}
