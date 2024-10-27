@@ -94,7 +94,7 @@ nav a {
 .about-pera{
   color: #757575;
   font-size: 18px;
-  padding: 30px 5px;
+  padding: 10px 5px;
 }
 .details-section{
   display: flex;
@@ -107,4 +107,29 @@ nav a {
 .name-info{
   font-size: 20px;
   color: #474747;
+}
+/* Skill Info */
+.skill-info{
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 100px;
+  padding: 80px 120px;
+}
+
+.skills{
+  padding:  20px;
+  margin-right: 20px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.skill-title{
+  color: #181818;
+  font-size: 16px;
+  font-weight: 800;
+  padding-bottom:15px;
+  padding-top: 5px;
+}
+.skill-sub-title{
+  font-size: 13px;
+  color: #474747;
+  font-weight: 600;
 }
