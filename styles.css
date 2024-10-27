@@ -133,3 +133,40 @@ nav a {
   color: #474747;
   font-weight: 600;
 }
+/* ex-section */
+.center-section{
+  text-align:  center;
+  margin-left: 100px;
+
+}
+.ex-section{
+  display: flex;
+  justify-content: space-around;
+  margin: 60px 150px;
+  text-align: left;
+
+}
+hr{
+  margin-right:  20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.my-edu{
+  color:#474747; 
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.my-title{
+  color:#474747; 
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.my-subtitle{
+  color:#757575;
+  font-size: 14px;
+  margin-bottom: 15px;
+
+}
+.my-section{
+  padding-right: 100px;
+}
