@@ -79,3 +79,32 @@ nav a {
 }
 
 /* Main style */
+.about{
+  background-color: #FFF8F3;
+  margin: 50px 100px;
+  text-align: center;
+  padding: 80px 120px;
+
+}
+.about-me{
+  color: #181818;
+  font-size: 25ox;
+  padding: 10px 5px;
+}
+.about-pera{
+  color: #757575;
+  font-size: 18px;
+  padding: 30px 5px;
+}
+.details-section{
+  display: flex;
+  justify-content: space-around;
+}
+.name{
+  font-size: 20px;
+  color: #757575;
+}
+.name-info{
+  font-size: 20px;
+  color: #474747;
+}
